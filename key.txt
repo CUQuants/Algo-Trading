@@ -1,0 +1,6 @@
+[Keys]
+key = <YOUR KEY>
+secret = <YOUR SECRET>
+
+# Make sure not to remove " = "
+# Leave 1 space on either side of the equals sign.
