@@ -4,6 +4,7 @@
 ##          Moving Average           ##
 ##                                   ##
 #######################################
+## Developed by Ryan Watts
 #!/usr/bin/env python
 ## imports IGNORE THIS
 from alpaca.trading.client import TradingClient
