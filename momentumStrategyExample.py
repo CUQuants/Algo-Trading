@@ -1,3 +1,5 @@
+##Created as an example of how to use alpaca, not meant for real trading use
+
 import yfinance as yf
 import time
 from datetime import datetime, timedelta
